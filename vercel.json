@@ -1,0 +1,23 @@
+{
+    "builds": [
+      {
+        "src": "server.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "headers": {
+          "Access-Control-Allow-Origin": "https://react-blog-frontend-ten.vercel.app",
+          "Access-Control-Allow-Methods": "GET, POST, PATCH, DELETE, OPTIONS",
+          "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept",
+          "Access-Control-Allow-Credentials": "true"
+        },
+        "src": "/.*",
+        "dest": "/server.js"
+      }
+    ],
+    "github": {
+      "silent": true
+    }
+  }
