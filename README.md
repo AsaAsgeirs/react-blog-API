@@ -6,6 +6,7 @@ In the end I created a open blog application where users can create post, edit, 
 > Disclaimer: Vercel won't let the images show, but you can see the back-end works. I didn't have time to put some images manually just for the look in VScode, will come later.
 
 Link to the [LIVE SITE](https://react-blog-frontend-ten.vercel.app/)
+
 A link to the [GitHub Front-end repository](https://github.com/AsaAsgeirs/react-blog-frontend)
 
 
