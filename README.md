@@ -29,3 +29,5 @@ MERN stack
 - Rest API with MongoDB
 - Vercel deploy
 
+---------------------------------------------------
+[YouTube Tutorial](https://www.youtube.com/watch?v=tlTdbc5byAs&list=PLj-4DlPRT48lGpll2kC4wOsLj7SEV_lYu&index=1&ab_channel=LamaDev)
